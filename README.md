@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-```
-conda create --name dicoding_proyek1 python
-conda activate dicoding_proyek1
-pip install numpy pandas matplotlib seaborn jupyter streamlit
-```
-
 <!--
 **faatih27/faatih27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
